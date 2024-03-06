@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 ¡Saludos! Guillermo Alexander De Jesus Valdez, soy un desarrollador web apasionado con una fuerte inclinación hacia el frontend, pero con experiencia también en el backend, busco oportunidades para aplicar mis conocimientos en el diseño, desarrollo y mantenimiento de sistemas informáticos eficientes y seguros, así como en sitios web. <br><br>Disfruto creando aplicaciones web que no solo sean visualmente atractivas, sino también altamente funcionales y eficientes.  Estoy emocionado por las oportunidades futuras y ansioso por seguir creciendo y evolucionando como desarrollador web.<br> 
+🔭 ¡Saludos! soy Guillermo Alexander De Jesus Valdez un desarrollador web apasionado con una fuerte inclinación hacia el frontend, pero con experiencia también en el backend, busco oportunidades para aplicar mis conocimientos en el diseño, desarrollo y mantenimiento de sistemas informáticos eficientes y seguros, así como en sitios web. <br><br>Disfruto creando aplicaciones web que no solo sean visualmente atractivas, sino también altamente funcionales y eficientes.  Estoy emocionado por las oportunidades futuras y ansioso por seguir creciendo y evolucionando como desarrollador web.<br> 
 
 
 ## 🌐 Socials:
